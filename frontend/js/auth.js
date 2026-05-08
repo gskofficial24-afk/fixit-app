@@ -1,5 +1,5 @@
 // ======================
-// LOGIN
+// LOGINs
 // ======================
 async function login(event) {
     event.preventDefault();
